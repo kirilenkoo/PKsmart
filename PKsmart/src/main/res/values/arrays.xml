@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //element types
+    <string-array name="element_name">
+        <item>line_element</item>
+    </string-array>
+    <string-array name="elements_classes">
+        <item>com.hhh.pksmart.Components.LineElement</item>
+    </string-array>
+    //section types
+    <string-array name="section_name">
+        <item>section_test</item>
+    </string-array>
+    <string-array name="section_classes">
+        <item>com.hhh.pksmart.Components.SectionTest</item>
+    </string-array>
+
+    //material types
+    <string-array name="material_name">
+        <item>material_test</item>
+    </string-array>
+    <string-array name="material_classes">
+        <item>com.hhh.pksmart.Components.MaterialTest</item>
+    </string-array>
+</resources>
